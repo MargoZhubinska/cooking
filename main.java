@@ -1,14 +1,9 @@
-    double temp = -15.0;
+Develop a simple book management application with ArrayList.
+User should be able to add a book to ArrayList.
+User should be able to remove a book from ArrayList.
 
-    if (temp <= 5) {
-      System.out.println("Wear super warm");
-    }
-    else if (temp <= 15) {
-      System.out.println("Wear warm");
-    }
-    else if (temp <= 30) {
-      System.out.println("Wear normal");
-    }
-    else {
-      System.out.println("You need cooling");
-    }
+Easy: Work with String in ArrayList. All the actions should be available for user.
+
+Medium: Work with String User should be able to repeat all the actions infinitely.
+
+Hard: Create a Book class and work with Book object to the ArrayList.
